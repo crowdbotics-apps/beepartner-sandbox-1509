@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT beepartner_sandbox_1509.wsgi:application
